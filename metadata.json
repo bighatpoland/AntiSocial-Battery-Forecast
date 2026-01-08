@@ -1,0 +1,7 @@
+{
+  "name": "Social Battery Forecast",
+  "description": "An AI-powered satirical dashboard to track, forecast, and optimize your social energy levels using humorous yet practical insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
